@@ -1,5 +1,5 @@
 ### Hi there 👋.    I'm Leonel Bravo 🇦🇷 a Full-Stack Developer, 
-## 🌱 Currently specializing in Back-end.
+## 🌱 Currently specializing in back-end.
     I'm looking for a job related with the backend stack.
 ## ⚡🧠 Interests: 
 - Computer Science, 
