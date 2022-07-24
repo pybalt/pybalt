@@ -6,13 +6,14 @@
 - AI Development, 
 - Physics, 
 - Languages <span><img height ="20em" src = "https://hatscripts.github.io/circle-flags/flags/es.svg"> </span><span><img height ="20em" src = "https://hatscripts.github.io/circle-flags/flags/de.svg"> </span><span><img height ="20em" src = "https://hatscripts.github.io/circle-flags/flags/gb.svg"> </span> 
+
 ##
 
 <div align="center">
-  <img height="25em"  src="https://komarev.com/ghpvc/?username=pybalt&label=Profile%20views&color=DAC03C&style=flat" alt="Leonel B. Bravo" />
+  <img height="25em"  src="https://komarev.com/ghpvc/?username=pybalt&label=Profile%20views&color=DAC03C&style=flat" alt="Profile Views" />
 </div>
 
-##
+<span></span>
 
 <div align="center">
   <a href="https://github.com/pybalt">
