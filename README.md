@@ -2,7 +2,7 @@
 ## 🌱 Currently specializing in Back-end.
     I'm looking for a job related with the backend stack.
 ## ⚡🧠 Interests: 
-- Computer Sciente, 
+- Computer Science, 
 - AI Development, 
 - Physics, 
 - Languages <span><img height ="20em" src = "https://hatscripts.github.io/circle-flags/flags/es.svg"> </span><span><img height ="20em" src = "https://hatscripts.github.io/circle-flags/flags/de.svg"> </span><span><img height ="20em" src = "https://hatscripts.github.io/circle-flags/flags/gb.svg"> </span> 
