@@ -24,10 +24,10 @@
 </div>
 
 <div align="center">
-<h3>Portfolio Web:</h3>
+<h3>My resume</h3>
   <p> 
-    <a href="https://pybalt.github.io/MyPortfolio/" target="blank">
-    <img src="https://img.icons8.com/fluency/344/resume-website.png" height = "90px"/>
+    <a href="https://www.canva.com/design/DAFNYI_9sjA/bJY1UkHQUOPaVbMeT4Sdwg/view?website#4" target="blank">
+    <img src="https://play-lh.googleusercontent.com/lSAxaMzF9fRKmuq9GwjR3sbVoIfwdcGm6Ng1_-w_rWlu4_lOwRGpu8M9lS94UVvO0dI=w240-h480-rw" height = "90px"/>
   </p>
 </div>
 
