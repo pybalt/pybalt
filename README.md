@@ -19,7 +19,7 @@
   <a href="https://github.com/pybalt">
 
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pybalt&show_icons=true&theme=radical"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pybalt&theme=radical&hide=css,html"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pybalt&theme=radical&hide=css,html,makefile"/>
 
 </div>
 
